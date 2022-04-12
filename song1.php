@@ -58,7 +58,7 @@
     		echo "<p>A &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</p>";
     		echo "<p> Your scrapped-up knees and </p><br/><br/>";
 
-    		echo "<p>[Chorus]</p>";
+    		echo "<p>[CHORUS]</p>";
     		echo "<p>G &nbsp &nbsp &nbsp &nbsp &nbsp A</p>";
     		echo "<p>If you stay</p>";
     		echo "<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp D &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp G</p>";
@@ -90,7 +90,7 @@
     		echo "<p> &nbsp &nbsp A</p>";
     		echo "<p>Cause you stop the noise</p><br/><br/>";
 
-    		echo "<p>[Chorus]</p>";
+    		echo "<p>[CHORUS]</p>";
     		echo "<p>G &nbsp &nbsp &nbsp &nbsp &nbsp A</p>";
     		echo "<p>If you stay</p>";
     		echo "<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp D&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp G</p>";
